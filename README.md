@@ -38,9 +38,6 @@ Bradley's physics information. This should really be in https://bradley.wogsland
 ### recipes
 Same comment as "articles".
 
-### url
-This is a fully functioning URL shortener. Please don't break it. It is forked off of the [YOURLS](https://yourls.org/) project with some modifications.
-
 Deployment
 -----------------
 
